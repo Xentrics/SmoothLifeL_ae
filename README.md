@@ -1,6 +1,8 @@
 # SmoothLifeL_ae
 SmoothLifeL implementation with vectorization and distributed system support.
 
+The [paper by S. Rafler](http://arxiv.org/pdf/1111.1567v2.pdf) describes the principle of Smooth Life.
+
 This is part of a university project which aims at making code as parallel as possible. This includes
 - Vectorization
 - Multi-Threading (Single Code)
